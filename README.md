@@ -8,9 +8,9 @@
 - 💬 Ask me about **react, AIGC and more**
 <h3 align="left">Github:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayRabbit-FE&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolzeta&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayRabbit-FE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolzeta)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 </p>
 
