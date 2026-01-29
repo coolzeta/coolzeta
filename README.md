@@ -15,4 +15,4 @@
 - 2023 → Founded Wisemind AI
 - 2025 → Joined licensed crypto exchange in Hong Kong
 
-Feel free to say hi on X → [@icandoit123459](https://x.com/icandoit123459)
+Feel free to say hi on X → [CoolZeta](https://x.com/icandoit123459)
